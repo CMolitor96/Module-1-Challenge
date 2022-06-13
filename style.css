@@ -75,8 +75,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/*Changed div to aside to use a general css selector instead of having a div with a class*/
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
